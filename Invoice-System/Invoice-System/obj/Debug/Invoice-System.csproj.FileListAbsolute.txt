@@ -1,0 +1,8 @@
+C:\Users\kcran\source\repos\Invoice-System\Invoice-System\obj\Debug\Invoice-System.csprojAssemblyReference.cache
+C:\Users\kcran\source\repos\Invoice-System\Invoice-System\obj\Debug\Search\MainWindow.g.cs
+C:\Users\kcran\source\repos\Invoice-System\Invoice-System\obj\Debug\App.g.cs
+C:\Users\kcran\source\repos\Invoice-System\Invoice-System\obj\Debug\Invoice-System_MarkupCompile.cache
+C:\Users\kcran\source\repos\Invoice-System\Invoice-System\obj\Debug\Invoice-System_MarkupCompile.lref
+C:\Users\kcran\source\repos\Invoice-System\Invoice-System\obj\Debug\Search\wndSearch.g.cs
+C:\Users\kcran\source\repos\Invoice-System\Invoice-System\obj\Debug\Main\wndMain.g.cs
+C:\Users\kcran\source\repos\Invoice-System\Invoice-System\obj\Debug\GeneratedInternalTypeHelper.g.cs
