@@ -13,10 +13,22 @@
         </Grid.ColumnDefinitions>
         <DataGrid x:Name="invoiceDataGrid" HorizontalAlignment="Left" Height="360" Margin="35,35,0,0" VerticalAlignment="Top" Width="343" Grid.ColumnSpan="2"/>
         <Button x:Name="btnCancelSelection" Content="Cancel" HorizontalAlignment="Left" Margin="230,340,0,0" VerticalAlignment="Top" Width="95" Height="35" FontSize="14" Click="btnCancelSelection_Click" Grid.Column="1" RenderTransformOrigin="0.498,-1.123">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFA53737" Offset="1"/>
+                    <GradientStop Color="#FFDE7676"/>
+                </RadialGradientBrush>
+            </Button.Background>
         </Button>
         <Button x:Name="btnSelectInvoice" Content="Select Invoice" HorizontalAlignment="Left" Margin="480,340,0,0" VerticalAlignment="Top" Width="120" Height="35" FontSize="14" Click="btnSelectInvoice_Click" Grid.Column="1" RenderTransformOrigin="0.176,-0.165">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF37A537" Offset="1"/>
+                    <GradientStop Color="#FF89E089"/>
+                </RadialGradientBrush>
+            </Button.Background>
         </Button>
-        <Button x:Name="btnClearSelection" Content="Clear Selection" HorizontalAlignment="Left" Margin="340,340,0,0" VerticalAlignment="Top" Width="120" Height="35" FontSize="14" Click="btnClearSelection_Click" Grid.Column="1">
+        <Button x:Name="btnClearSelection" Content="Clear Selection" HorizontalAlignment="Left" Margin="339.6,340,0,0" VerticalAlignment="Top" Width="127" Height="35" FontSize="14" Click="btnClearSelection_Click" Grid.Column="1" RenderTransformOrigin="0.462,0.431">
             <Button.Background>
                 <RadialGradientBrush>
                     <GradientStop Color="#FFC9C9C9" Offset="1"/>
